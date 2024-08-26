@@ -1,4 +1,4 @@
-<h1 align="center">Prazer Yuri!</h1>
+<h1 align="center">OI, EU SOU O YURI!</h1>
 
 <h3 align="center">
 Meu nome é Yuri. Sou graduado em ADS, para os íntimos, ou tecnologia em análise e desenvolvimento de sistemas :)
