@@ -2,6 +2,7 @@
 
 <h3 align="center">
 Meu nome é Yuri. Sou graduado em ADS, para os íntimos, ou tecnologia em análise e desenvolvimento de sistemas :)
+<br>
 
 Porém um eterno estudante em constante evolução e com experiência em rotinas de Tecnologia da Informação, incluindo suporte técnico, infraestrutura e desenvolvimento front-end.
 
