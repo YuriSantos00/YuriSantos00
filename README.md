@@ -1,12 +1,12 @@
 <h1 align="center">Prazer Yuri!</h1>
 
-<h1 align="center">
+<h3 align="center">
 Meu nome é Yuri. Sou graduado em ADS, para os íntimos, ou tecnologia em análise e desenvolvimento de sistemas :)
 
 Porém um eterno estudante em constante evolução e com experiência em rotinas de Tecnologia da Informação, incluindo suporte técnico, infraestrutura e desenvolvimento front-end.
 
 Possuo facilidade na utilização de ferramentas como Photoshop e Canva. Ultimamente tenho voltado meus estudos para desenvolver cada vez mais meu JavaScript. Com foco na criação de aplicações web e todas as possibilidades relacionadas ao universo Front-End.
-</h1>
+</h3>
 
 <h1 align="center">Tecnologias: </h1>
 
