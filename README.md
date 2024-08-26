@@ -1,6 +1,7 @@
 <h1 align="center">Prazer Yuri!</h1>
 
-## Ferramentas e Tecnologias
+## 
+<h1 align="center" Ferramentas e Tecnologias </h1>
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 
