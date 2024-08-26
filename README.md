@@ -24,5 +24,5 @@
 <a href="https://www.linkedin.com/in/yuri-santos00/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<div class="tenor-gif-embed" data-postid="19369899" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/bh187-minions-let-me-check-check-the-list-looks-good-gif-19369899">Bh187 Minions GIF</a>from <a href="https://tenor.com/search/bh187-gifs">Bh187 GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
