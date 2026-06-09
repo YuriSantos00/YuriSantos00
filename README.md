@@ -1,55 +1,77 @@
 <h1 align="center">OI, EU SOU O YURI! 👋</h1>
 
 <h3 align="center">
-Meu nome é Yuri. Sou graduado em ADS — para os íntimos, Análise e Desenvolvimento de Sistemas :)  
-<br><br>
-Ultimamente tenho voltado meus estudos para desenvolver cada vez mais meu JavaScript, com foco na criação de aplicações web e todas as possibilidades relacionadas ao universo Front-End.
+  Automação · Integrações · IA Aplicada · Python · n8n · APIs · SQL · AWS
 </h3>
 
 ---
 
-<h1 align="center">🚀 Tecnologias:</h1>
-
-<h2 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-light.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-</h2>
-
----
-
-<h1 align="center">📚 Certificações & Cursos:</h1>
+<h2 align="center">🤖 Automação & Integração</h2>
 
 <p align="center">
-  🏅 JavaScript Completo – Curso em Vídeo <br>
-  🏅 PowerShell para Iniciantes – Udemy <br>
-  🏅 Fundamentos Web – DIO
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/APIs%20REST-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Webhooks-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-4B8BBE?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Integrações%20SaaS-6C47FF?style=for-the-badge&logo=zapier&logoColor=white"/>
 </p>
 
 ---
 
-<h1 align="center">💼 Projetos em Destaque:</h1>
+<h2 align="center">🧠 IA Aplicada</h2>
 
 <p align="center">
-  <a href="https://github.com/YuriSantos00/orcamento-de-pecas"><img alt="Repo" src="https://img.shields.io/badge/Orçamento%20de%20Peças-222?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/YuriSantos00/cardapio-online"><img alt="Repo" src="https://img.shields.io/badge/Cardápio%20Online-222?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/LLMs%20%2F%20AI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Classificação%20de%20Dados-00897B?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Enriquecimento%20de%20Dados-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação%20Inteligente-7B2FBE?style=for-the-badge&logo=probot&logoColor=white"/>
 </p>
 
 ---
 
-<h1 align="center">🚧 Em aprendizado:</h1>
+<h2 align="center">💻 Desenvolvimento</h2>
 
 <p align="center">
-  Atualmente focado em aprimorar meus conhecimentos em <strong>JavaScript moderno</strong>, <strong>React</strong>, boas práticas de UI/UX e construção de sistemas com <strong>Supabase</strong>.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50" height="50" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="50" height="50" title="HTML5"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="50" height="50" title="CSS3"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" title="Git"/>
 </p>
 
 ---
 
-<h1 align="center">📊 Estatísticas GitHub:</h1>
+<h2 align="center">🗄️ Dados & Banco de Dados</h2>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="50" height="50" title="Supabase"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL"/>
+</p>
+
+---
+
+<h2 align="center">☁️ Cloud & Infra</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="44" height="44" title="Linux"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="44" height="44" title="PowerShell"/>
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YuriSantos00&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -58,23 +80,20 @@ Ultimamente tenho voltado meus estudos para desenvolver cada vez mais meu JavaSc
 
 ---
 
-<h1 align="center">📫 Contatos:</h1>
+<h2 align="center">📫 Contatos</h2>
 
 <div align="center">
-  <a href="https://www.instagram.com/yurisantos00_" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  
-  <a href="mailto:lousantos.ti@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
   <a href="https://www.linkedin.com/in/yuri-santos00/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
+  <a href="mailto:yurisantoslou02@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/yurisantos00_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
   <a href="https://yurisantosdev.netlify.app/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white">
   </a>
 </div>
 
